@@ -51,6 +51,7 @@
     {"id":{"name":"Object20","path":"objects/Object20/Object20.yy",},},
     {"id":{"name":"Object9","path":"objects/Object9/Object9.yy",},},
     {"id":{"name":"Red_enemy","path":"objects/Red_enemy/Red_enemy.yy",},},
+    {"id":{"name":"test","path":"objects/test/test.yy",},},
     {"id":{"name":"RedRoomAva","path":"rooms/RedRoomAva/RedRoomAva.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"BS_fall","path":"sprites/BS_fall/BS_fall.yy",},},

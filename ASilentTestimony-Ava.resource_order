@@ -32,6 +32,7 @@
     {"name":"Object20","order":13,"path":"objects/Object20/Object20.yy",},
     {"name":"Object9","order":12,"path":"objects/Object9/Object9.yy",},
     {"name":"Red_enemy","order":14,"path":"objects/Red_enemy/Red_enemy.yy",},
+    {"name":"test","order":18,"path":"objects/test/test.yy",},
     {"name":"RedRoomAva","order":15,"path":"rooms/RedRoomAva/RedRoomAva.yy",},
     {"name":"Room1","order":4,"path":"rooms/Room1/Room1.yy",},
     {"name":"BS_fall","order":2,"path":"sprites/BS_fall/BS_fall.yy",},
