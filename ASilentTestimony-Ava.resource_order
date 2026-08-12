@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"fonts","order":20,"path":"folders/fonts.yy",},
     {"name":"Objects","order":1,"path":"folders/Objects.yy",},
     {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
     {"name":"BS","order":9,"path":"folders/Sprites/BS.yy",},
@@ -9,6 +10,7 @@
     {"name":"smear","order":4,"path":"folders/Sprites/iris_spr's/smear.yy",},
     {"name":"turret","order":5,"path":"folders/Sprites/iris_spr's/turret.yy",},
     {"name":"walk","order":6,"path":"folders/Sprites/iris_spr's/walk.yy",},
+    {"name":"start page","order":18,"path":"folders/start page.yy",},
     {"name":"Tilesets","order":3,"path":"folders/Tilesets.yy",},
   ],
   "ResourceOrderSettings":[
@@ -32,9 +34,12 @@
     {"name":"Object20","order":13,"path":"objects/Object20/Object20.yy",},
     {"name":"Object9","order":12,"path":"objects/Object9/Object9.yy",},
     {"name":"Red_enemy","order":14,"path":"objects/Red_enemy/Red_enemy.yy",},
-    {"name":"test","order":18,"path":"objects/test/test.yy",},
+    {"name":"start_button_obj","order":5,"path":"objects/start_button_obj/start_button_obj.yy",},
+    {"name":"start_obj","order":2,"path":"objects/start_obj/start_obj.yy",},
+    {"name":"title_screen_obj","order":6,"path":"objects/title_screen_obj/title_screen_obj.yy",},
     {"name":"RedRoomAva","order":15,"path":"rooms/RedRoomAva/RedRoomAva.yy",},
     {"name":"Room1","order":4,"path":"rooms/Room1/Room1.yy",},
+    {"name":"Title_screen","order":19,"path":"rooms/Title_screen/Title_screen.yy",},
     {"name":"BS_fall","order":2,"path":"sprites/BS_fall/BS_fall.yy",},
     {"name":"BS_walk","order":1,"path":"sprites/BS_walk/BS_walk.yy",},
     {"name":"BS_walkAGAIN","order":3,"path":"sprites/BS_walkAGAIN/BS_walkAGAIN.yy",},
@@ -70,6 +75,7 @@
     {"name":"Spr_tileset_red2","order":3,"path":"sprites/Spr_tileset_red2/Spr_tileset_red2.yy",},
     {"name":"Sprite31","order":6,"path":"sprites/Sprite31/Sprite31.yy",},
     {"name":"Sprite39","order":17,"path":"sprites/Sprite39/Sprite39.yy",},
+    {"name":"title_screen_spr","order":1,"path":"sprites/title_screen_spr/title_screen_spr.yy",},
     {"name":"villageElder_spr","order":1,"path":"sprites/villageElder_spr/villageElder_spr.yy",},
     {"name":"TileSet_red1","order":1,"path":"tilesets/TileSet_red1/TileSet_red1.yy",},
     {"name":"TileSet_red2","order":4,"path":"tilesets/TileSet_red2/TileSet_red2.yy",},

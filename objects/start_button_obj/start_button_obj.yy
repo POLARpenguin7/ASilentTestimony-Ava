@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"test",
-  "eventList":[],
+  "%Name":"start_button_obj",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"test",
+  "name":"start_button_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"ASilentTestimony-Ava",
-    "path":"ASilentTestimony-Ava.yyp",
+    "name":"start page",
+    "path":"folders/start page.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"start_button",
+    "path":"sprites/start_button/start_button.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
