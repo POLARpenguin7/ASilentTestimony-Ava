@@ -8,8 +8,8 @@
   "name":"Win_text_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"WIN",
-    "path":"folders/WIN.yy",
+    "name":"WIN_Ava",
+    "path":"folders/WIN_Ava.yy",
   },
   "parentObjectId":null,
   "persistent":false,

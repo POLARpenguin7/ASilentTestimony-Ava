@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite39",
-    "path":"sprites/Sprite39/Sprite39.yy",
+    "name":"Sprite39_Ava",
+    "path":"sprites/Sprite39_Ava/Sprite39_Ava.yy",
   },
   "spriteMaskId":null,
   "visible":true,

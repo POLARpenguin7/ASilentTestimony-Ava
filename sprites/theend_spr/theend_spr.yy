@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"the end",
-    "path":"folders/the end.yy",
+    "name":"the end_Ava",
+    "path":"folders/the end_Ava.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

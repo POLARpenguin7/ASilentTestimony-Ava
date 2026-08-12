@@ -6,8 +6,8 @@
   "name":"The_End_background",
   "overriddenProperties":[],
   "parent":{
-    "name":"the end",
-    "path":"folders/the end.yy",
+    "name":"the end_Ava",
+    "path":"folders/the end_Ava.yy",
   },
   "parentObjectId":null,
   "persistent":false,

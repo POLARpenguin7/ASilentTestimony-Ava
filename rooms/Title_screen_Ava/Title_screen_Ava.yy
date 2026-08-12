@@ -1,13 +1,13 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Title_screen",
+  "%Name":"Title_screen_Ava",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_19ADF42","path":"rooms/Title_screen/Title_screen.yy",},
-    {"name":"inst_7B4CA41E","path":"rooms/Title_screen/Title_screen.yy",},
+    {"name":"inst_19ADF42","path":"rooms/Title_screen_Ava/Title_screen_Ava.yy",},
+    {"name":"inst_7B4CA41E","path":"rooms/Title_screen_Ava/Title_screen_Ava.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -17,7 +17,7 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"title_screen_spr","path":"sprites/title_screen_spr/title_screen_spr.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"Title_screen",
+  "name":"Title_screen_Ava",
   "parent":{
     "name":"ASilentTestimony-Ava",
     "path":"ASilentTestimony-Ava.yyp",

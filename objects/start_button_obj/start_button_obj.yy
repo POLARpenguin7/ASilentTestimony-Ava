@@ -8,8 +8,8 @@
   "name":"start_button_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"start page",
-    "path":"folders/start page.yy",
+    "name":"start page_Ava",
+    "path":"folders/start page_Ava.yy",
   },
   "parentObjectId":null,
   "persistent":false,

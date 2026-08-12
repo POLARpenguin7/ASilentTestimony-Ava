@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Tilesets",
-    "path":"folders/Tilesets.yy",
+    "name":"Tilesets_Ava",
+    "path":"folders/Tilesets_Ava.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

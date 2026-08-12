@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"WIN",
-    "path":"folders/WIN.yy",
+    "name":"WIN_Ava",
+    "path":"folders/WIN_Ava.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

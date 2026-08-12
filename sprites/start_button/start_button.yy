@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"start page",
-    "path":"folders/start page.yy",
+    "name":"start page_Ava",
+    "path":"folders/start page_Ava.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -2512,8 +2512,8 @@
   "maintainGms1Font":false,
   "name":"Font_OpenSans_BIG",
   "parent":{
-    "name":"fonts",
-    "path":"folders/fonts.yy",
+    "name":"fonts_Ava",
+    "path":"folders/fonts_Ava.yy",
   },
   "pointRounding":0,
   "ranges":[

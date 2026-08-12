@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"BS",
-    "path":"folders/Sprites/BS.yy",
+    "name":"BS_Ava",
+    "path":"folders/Sprites/BS_Ava.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
